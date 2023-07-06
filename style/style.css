@@ -17,8 +17,20 @@
     /* <!-- header end  --> */
 /* <!-- ============================================= --> */
     /* <!-- logo google start --> */
-
-    /* <!-- logo google end --> */
+    .fi{
+        display: flex;
+        margin: 0 auto;
+    }
+    .img2{
+    filter: saturate(0);
+       margin: 0 auto;
+        
+    }
+    .box{
+        color: rgb(134, 133, 131);
+        text-align: center;
+    }
+    /* <!-- logo google end saddam-->     logo google*/
 /* <!-- ============================================== --> */
     /* <!-- Assisting start --> */
 
@@ -49,6 +61,7 @@
     /* <!-- Testimonials Look end --> */
 /* <!--====================================================  --> */
     /* <!-- footer start Quvonch --> */
+    
     footer{
         padding-top: 80px;
         width: 1440px;
