@@ -17,9 +17,16 @@
     /* <!-- header end  --> */
 /* <!-- ============================================= --> */
     /* <!-- logo google start --> */
+    .logo_google{
+        margin-top: 50px;
+        margin-bottom: 40px;
+        width: 1440px;
+        padding: 0 160px;
+        margin:  0 auto;
+    }
     .fi{
         display: flex;
-        margin: 0 auto;
+        margin: 50px auto;
     }
     .img2{
     filter: saturate(0);
