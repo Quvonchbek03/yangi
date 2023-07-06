@@ -56,8 +56,21 @@
     /* <!-- Neighborhood end--> */
 /* <!--====================================================  --> */
     /* <!-- Our Team start --> */
-
-    /* <!-- Our Team end --> */
+    .bo{
+        text-align: center;
+    }
+    .max{
+        
+        display: flex;
+        gap: 60px;
+    }
+    .max1{
+        width: 1123px;
+        margin: 0 auto;
+     } 
+    
+    
+    /* <!-- Our Team end saddan--> */
 /* <!--===================================================  --> */
     /* <!-- Latest Blogs start --> */
 
